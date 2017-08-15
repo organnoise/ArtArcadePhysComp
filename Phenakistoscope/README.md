@@ -14,5 +14,5 @@ Schematic and board for hardware of project connecting coin-op to Arduino-micro,
 
 
 <p align="center">
-  <img src="https://github.com/organnoise/ArtArcadeTools/blob/master/img/ArtArcade.AnaWheel.jpg">
+  <img src="https://github.com/organnoise/ArtArcadeTools/blob/master/img/ArtArcade.AnaWheel.jpg" width="50%" height="50%">
 </p>
